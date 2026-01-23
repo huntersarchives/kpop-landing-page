@@ -11,8 +11,7 @@ div {
     align-items: center;
     width: 100%;
     border: 2px solid darkblue;
-    margin: auto;
+    margin: 10px auto;
     max-width: 600px;
     padding: 30px;
-
 }
